@@ -1,2 +1,2 @@
 # VOC2YOLO
-transform VOC datasets to YOLO datasets
+Transform VOC datasets to YOLO datasets, please configure filepath before run *.py;
